@@ -1,0 +1,2 @@
+This is daily report of my activity started on 11 Aug 2022
+Today i learning how to use git hub, now i learning brach on github.

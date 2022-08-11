@@ -1,0 +1,4 @@
+Resolusi 2022
+- Saya ingin konsisten belajar mengoding 
+- Saya mengeksplor dan mempelajari Framework Laravel 
+- Saat ini saya mencoba mempalari Framework Laravel 8 hingga blade templating

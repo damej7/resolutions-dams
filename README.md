@@ -1,2 +1,2 @@
 # resolutions-dams
-Repository rencana damseey kedepannya.
+Belajar buat repository di github.

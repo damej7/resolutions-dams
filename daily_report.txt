@@ -17,3 +17,11 @@ Holiday
 
 18 Aug 2022
 WPU MVC series 10/13
+
+25 Aug 2022
+WPU MVC Series complete 
+Need upload to repositories later :) 
+
+Completed Laravel 8 Jetstream tutorial 
+
+Learning laravel 8 framework for development.
